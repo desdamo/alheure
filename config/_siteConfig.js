@@ -51,7 +51,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'a-lheure' // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
@@ -90,7 +90,7 @@ export default {
       display: true
     },
     perRow: 3,
-    perPage: 6
+    perPage: 9
   }
 }
 

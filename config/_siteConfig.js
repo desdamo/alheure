@@ -19,7 +19,7 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
+      name: 'A Propos du blog',
       link: '/about'
     },
     {
@@ -27,7 +27,7 @@ export default {
       link: '/contact'
     },
     {
-      name: 'Categories',
+      name: 'Catégories',
       link: '/categories'
     },
   ],
@@ -64,7 +64,7 @@ export default {
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'http://eepurl.com/h9v53j'
     },
     custom: {
       on: false,

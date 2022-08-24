@@ -24,7 +24,7 @@ export default {
 }
 .logo-wrapper {
   position: relative;
-  height: 50px;
+  height: 100px;
   overflow: hidden;
   width: 200px;
   .logo-inner {
@@ -32,7 +32,7 @@ export default {
     height: 500px;
     img {
       display: block;
-      height: 40px;
+      height: 100px;
       margin: 5px;
       max-height: initial;
     }
